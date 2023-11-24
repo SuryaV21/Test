@@ -28,45 +28,189 @@ Sentiment Analysis
 Text Generation
 Speech Recognition
 3. Transfer Learning
-
-
 4. Recommendation Systems
-
-
 5. Explainable AI
-
-
 6. Generative AI
-
-Generative Adversarial Networks
-Variational Autoencoders (VAEs)
-ChatGPT
-DALL-E
-BERT, Transformers
-GPT-3, GPT-4
-DALL-E
-Stable Diffusion
+- Generative Adversarial Networks
+- Variational Autoencoders (VAEs)
+- ChatGPT
+- DALL-E
+- BERT, Transformers
+- GPT-3, GPT-4
+- DALL-E
+- Stable Diffusion
 7. Deep Learning
-
-Artificial Neural Networks 
-Convolutional Neural Networks
-Recurrent Neural Networks
+- Artificial Neural Networks 
+- Convolutional Neural Networks
+- Recurrent Neural Networks
 8. Reinforcement Learning
- 
-
 9. Classification
- 
-
 10. Regression
-
-
 11. Time Series Forecasting
-
-
 12. Predictive Analytics
-
-
 13. Multitask Learning
-
-
 14. Optimization Techniques
+
+What is Research?
+- Re + Search = Research
+- Re = again
+- search = To Probe Closely
+
+- Research = an iterative, careful, systematic study and investigation in some of knowledge, undertaken to establish new facts or priniciples
+- Research is a careful and systematic investigation of a problem that can help you reach a new and meaningful conclusion.
+- According to dictionary definition:  reearch is a systematic investigation and a detailed study of subjects in order to establish facts and reach a new conclusion.
+
+According to Clifford Woody, components of research: 
+A. Defining and redefining problems
+B. Formulating a hypothesis
+C. Collecting, organizing and evaluating data
+D. Making deductions and reaching conclusions
+E. Carefully testing the conclusions - to determine whether they fit the formulated hypothesis
+
+Systematic Investigation:
+
+A. Collect the information to identify teh factors influencing the problem
+B. Formulated the problem and generated hypothesis
+C. Constructed a checklist and obtained information from a sample
+D. Analysed the colleccted data and interpreted the results
+
+Research Methodology: huge amount of data generation by machines, software applications and sensors. this coupled along with the  associated complexity of the research environment such as that the ability to understand and effectively use data to make useful decisions is becoming an essential task of the data intensive society. The tools and the technology used in data analysis are evolving rapidly to cope up with large volume of data, even after all this some data scientists lack sufficient understanding of how to solve problems effectively using data science techniques.As a result they arrive at a solution that fails to adequaely address the problem at hand.
+so using reseach methodology we can rule out unnecessary methods and choose only the most appropriate methods and steps to solve the problem effeciently
+
+-- Significance of Research:
+-------------------------------
+- All progress is born of enquiry, doubt is often better than over-confidence as it leads to enquiry and an enquiry leads to inventions-- famous quote by hassan maxim
+- Research is important in our daily life as it provides information that allows us to make informed decisions. 
+- Research thus helps in improving the quality of the life because its a self-learning experience. It helps us find out important things connected to the research subjects 
+- All above points re-inforce the significance of research. Research is previlant in all of the fields 
+
+Research plays an important role:
+
+- In the field of technology, such as the mobile sector, the manufacturing sector, the service sector, etc. 
+- In deciding the economic policies and budget of a country
+- In solving various operational and planning problems in business.
+- In the field of data science, by enabling scientists to extract meaningful insights from data using efficient tools and techniques
+- In studying relationships and finding answers to various social problems 
+- To disprove myths and support facts
+
+Significance of Research in different fields:
+A. Field of Technology -  mobile sector, manufacturing sector, agricultural sector, service sector, 
+      ex: Video conference, Smart home automation using IoT using our mobile devices
+
+B. Setting Economic Policies and Budgeting of a country - 
+      ex: government budgets majorly depends on analysis of needs of the people and on the availability of the revenue and resources to meet those needs
+         - it is most needed in this field is because cost of needs of the people has to be matched with probable revenes. Through this govt makes alternative policies and also examine the consequences of different alternatives
+  Decision making may not be an actual part of the research but research supplies certain help policy makers in making the right decision
+The plight of cultivaters, working conditions of the farmers, problems of big and small business/industry, even the defence services are the matters that requires research
+
+C. Solving Operational and planning problems of business industries - Operating research and market research are considered crucial because the results can help in taking decisions properly
+ Market research is the internal investigation of the structure and development of the market which helps in formualting efficient policies for production, purchase and sales
+on the other hand operations research refers to application of logical and mathematical techniques to solve business problems like to minimize cost, maximize profit
+
+D. Research helps in making logical business decisions  - Research concering demand of the product and its market factor has great utility in business. 
+   If the firm knows future demand of the project, it is not difficult to adjust its supplies schedule keeping in the mind the limits of its capacity 
+i.e., research replaces intuitive business decisions with more scientific and logical decisions
+
+E. Field of Data Science: with many fold increase in amount of data generated it is important to store it properly whether it is stored in the structured way or an unstructured manner.
+The role of data scientist is to read the data properly, extract maximum related information out of it, they need to which tools to use and when to use 
+ Ex: Recommendation system
+
+F. In Studying Social Relationships and finding answers to the problems - Its also a practical utility for social scientists to have the knowledge to do something better and in more efficient manner
+Research in this fields focuses mainly on knowledge to solving practical problems. on one hand it helps in developing the body of principle that understands and predicts the range of human interactions
+on the other hand it is now being looked for seeking practical guidance to solve immediate problems of human relations because of its social orientation
+
+G. In Disproving myths and support facts -   Research is based on proper analysis of authentic available data. so there is no scope for any myth if it is proven using facts and actual informaiton
+
+
+Prominent Fields of Research in DS and ML:
+- Computer Vision - to make a computer understand what an image is ?
+      A. Semantic Segementation - we have an image and we want to segement out some particular areas of the image
+         ex: there is a person in the image and want to seperate that person's pixels out of the image so that we can understand.
+             This is useful in the areas where you want to detect a person in an image or detect some other things like anamoly detection, detect an automobile on the road, speeding cameras where they can use image segmentation to segment out the vechile and number plates amd chekc whose vechile was over speeding.
+      
+      B. Image Super - Resolution - when u see an image and u zoom in more n more into the image, the pixel start blurring out.
+         can we make a machine to understand that when we zoom in more n more, it shouldn't blur out, it should maintain the quality as the original image
+         - Even used for upgrading the image from low resolution to high resolution image ex: older images in low resolution to good quality image to high resolution 
+
+      C. Pose Estimation - It is used in augmented reality, it can be used to train robots, so from an image of a person doing some activity, you can recognize that activity using pose recongition system.
+      whether he is running/walking/dancing you can understand it from pose recognition.
+
+  - Natural Language Processing - making computer understand what we speak
+                                  make understand what is the sentiment of the statement
+                                  make understand what is the intent 
+    
+      A. Machine/ Language Translation - prominent research area. To make the computer understand and translate from one language to another
+      
+      B. Code Generation - can we make computer right the code itself? we humans start learning coding and do the code , write the code and debug it afterwards but can we make a machine do it end -to-end.
+
+      C. Fake News Detection - we see lot of fake news in all social media platforms, can we make a machine to learn how to detect the fake news by itself and remove it from getting posted on the internet.
+         how to understand the source of the news, understand the context where this is fake news that makes this research area lot more interesting 
+
+ - Generative Models -  Machined trained to generate human faces virtually. This is to generate new things where we train our model to generate new things
+       We can train model by using few poems and model can generate a new poem all by itself etc...
+ 
+  - Play Games -  develop a model to beat the best grand masters as well
+
+  - Build games using machine learning
+
+  - Adversarial Attacks - whenever we find something, people will always try to find loopholes and do frauds. 
+    can we build machine learning systems which are robust to such frauds happening, which are robust to such loopholes
+    can we build a model in a way eventhough after changing a few pixels of the image, machine should be able to recognize perfectly
+
+Objective of Research:
+------------------------
+
+A. Conducting a Market Research: 
+     Why are you conducting market research?
+      i. To find out the company's position in the Market
+      ii. To find the competitors of the brand
+
+Importance of defining the clear research objective is that these objectives define the scope of the research (or) what research has to be done?  
+If your objective is too broad, then you spend too much time in collecting information and data which are not much relevant to you.
+if your objective is more narrow, then you end up collecting less data which is not sufficient for concluding the final result.
+
+So the main challenge is to define the appropriate research objectives. Below are the different ways to define the research objective:
+
+A. Exploratoy Research Objective: To explore and achive new insights into a phenomenon. 
+B. Descriptive Research Objective: To describe why an action has been taken
+C. Casual or Explanatory Research Objective: To explain the cause and effect relation of a research question
+D. Correlational research objective: To discover/establish a relationship between two or more aspects of a situation
+
+There are four categories of research objectives:
+--------------------------------------------------
+Exploratory research objective: Its main purpose is to explore a phenomenon and gain new insights from it. For example, the following objectives direct you to explore the market:
+
+To find the number of brands available in the market
+
+To estimate the number of products within each brand 
+
+2. Descriptive research objective: Its main purpose is to describe a particular action. For example, the following objectives direct you to describe your action:
+
+To find out the reasons for the sale of a particular product by dealers
+
+To find out why customers are opting for a particular product 
+
+3. Causal research objective: It aims to explain the cause-and-effect relation in a research question. Hence, it is also known as the explanatory research objective. For example, the following objectives direct you to find the effect of a particular action:
+
+The effect of a newly launched product on the market
+
+The effect of an increased number of lanes or installation of solar lights on the number of road accidents
+
+4. Correlational research objective: It aims to discover or establish a relationship between two aspects of a situation. For example, the following objectives establish either a positive or negative correlation:  
+
+“Smoking leads to lung cancer.” (Positive correlation)
+
+“Educated people commit crimes.” (Negative correlation)
+
+A research objective needs to have the following SMART features: 
+---------------------------------------------------------------
+- Specific: It should be specific; this will save time and keep you on the correct path. 
+ex: To analyse the impact of poverty is broader compared to "To study teh impact of poverty on the children between 3-16yrs of maharastra region between 2014 and 2019 period"
+- Measurable: It should be measurable, i.e., it should quantify the targets and benefits. 
+ex: how many children will participate in teh survey
+   how many rural and urban areas will be covered
+- Achievable: It should be such that you are able to attain it, considering the resources and time at your disposal, without compromising the quality. 
+ex: 200km road cannot be built in 30days which is not achieveable
+- Realistic: It should be real and practical so that it can be visualised and achieved.
+ex: a resarch objective of in-depth interview with the stratergy department of apple company by an under graduate student is little un-reliastic
+- Time-bound: It should be achievable within a specific time frame.
