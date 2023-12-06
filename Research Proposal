@@ -406,3 +406,327 @@ A good research problem should possess the following characteristics:
 4. Ethical: The research problem should meet ethical boundaries, i.e., It should remain within the confines of the ethical ways of conducting research.
 
 5. Narrowed down and interesting: Your research problem should not be too broad. It should narrow down to a specific research area.
+
+Power bi complete topics:
+-------------------------
+
+Day	Theme	Topics	Subtopics	# Hours	Remarks
+1	Essentials of Power BI	Introduction to Power BI	"1. Introduction to Power BI paltform
+2. First Experience of Power BI Desktop
+3. Power BI Website- Web Browser
+4. Introduction to Power BI Components: Power Query, Power Pivot, Power View, and Power Q&A."		
+2	Essentials of Power BI	Getting Data and Transformation	"1. What is Power Query:Data Mash-Up Engine of Power BI
+2. Versions of Power Query
+3. Query Editor
+4. Transformation GUI
+5. Get Started with Power Query: Covid19 Data Mash-Up
+6. Power BI Get Data from Excel"		
+3	Essentials of Power BI	Data Modelling and DAX basics	"1. Power BI xVelocity engine basics 
+2. Relationships, Hierarchies and Formatting
+3. Sorting by other columns
+4. Date Table
+5. Introduction to DAX
+6. Calculated Columns, Measures, and Calculated Tables"		
+4	Essentials of Power BI	Getting started with Data Visualization	"1. Power BI Desktop Visualization
+2. Visual Formatting in Power BI Desktop
+3. Charts and Visuals in Power BI, Sorting, Filtering, and categorization
+4. Custom Visuals in Power BI Desktop
+5. Maps and Geo-Spatial Visualization"		
+5	Essentials of Power BI	Visualization Contd.	"1. Basic Charts; Bar and Column Charts
+2. Clustered vs. Stacked Charts
+3. Quick Measures in Power BI
+4. Drill Down and Up using visuals and hierarchies
+5. Pages & Q&A for Reports"		
+6	Essentials of Power BI	Data Slicing and Dicing	"
+1. Scopes of Filters: Visual Level, Page Level, Report Level
+2. Modes of Filtering: Basic, Advanced, Relative, Top N
+3. Drill through Page Filter: Creating master-details page scenario in Power BI
+4. Types of Slicers; Date, Text, Number
+5. Slicer Formatting
+6. Syncing Slicer between Pages"		
+7	Essentials of Power BI	Advanced Visualization	"1. Report Page Tooltip
+2. Controlling the interaction of Visuals in a page
+3. Designing Power BI reports for Mobile
+4. Grouping and Binning
+5. Bookmark; saving the state of a page
+6. Buttons; action items
+7. Selection pane; visibility control in Power BI
+8. Golden triangle; Bookmark, button, and selection pane
+9. Colour theme or pallets in Power BI"		
+8	Essentials of Power BI	Best Practice of Visuals	"1. Line Chart; Trend Analysis
+2. Combo Charts; Different Scales in one graph
+3. Ribbon Chart; Ranking
+4. Waterfall Chart; Cashflow
+5. Scatter Chart; Storytelling with the data
+6. Grouping charts: Pie, Donut chart, and Treemap charts
+7. KPI visual
+8. Gauge
+9. Card Visual
+10. Table and Matrix; showing the numbers with conditional formatting"		
+9	Essentials of Power BI	Power BI Services	"1. Basic Sharing and using workspaces in Power BI web site
+2. Dashboard vs. Report
+3. Power Q&A
+4. Mobile Dashboard Design
+5. Row Level Security
+6. Schedule Refresh vs. Other types of connections
+7. Gateway’s Role in the Service"		
+10	Essentials of Power BI	Custom Visuals	"1. Adding and using a custom visual
+2. Infographic Designer
+3. Tachometer Gauge
+4. Map custom visuals
+5. Certified custom visuals
+6. Hierarchy Slicer
+7. Play Axis"		
+11	Essentials of Power BI	Geo Location Visualization	"1. Using Bing to find spots - Map Visuals
+2. Address Details Fine Tuning  
+3. Map Visual; Using Latitude and Longitude
+4. Filled Map; Regions and Polygons
+5. Data Category importance for the filled map
+6. Shape Map; Having custom map visual
+7. ArcGIS Map; Map visual which can do everything"		
+12	Data Modeling with Power BI	Relationships in PowerBI	"1. What are relationships in Power BI
+2. one-to-many, many-to-one, many-to-many, and one-to-one relationships
+3. Direction of the relationship?
+4. role-playing dimension and inactive relationships
+5. relationships based on multiple columns"		
+13	Data Modeling with Power BI	Dimensional modeling	"1. Data preparation
+2. What is dimension table?
+3. What is fact table and different types of it?
+4. Need of date dimension?
+5. Power BI default or custom date table
+6. What is star-schema?"		
+14	Data Modeling with Power BI	Star schema in Modeling	"1. Combining dimension tables
+2. Creating shared dimension
+3. Combine tables or create relationships?
+4. What fields to hide?
+5. Build your first star-schema
+6. One dimension filters another dimension"		
+15	Data Modeling with Power BI	Data modeling Best Practices	"1. DAX or M?
+2. Row-based calculation or aggregations?
+3. Calculated tables
+4. Measures Vs. Calculated columns
+5. Move shared tables to dataflows
+6. Shared datasets and how to use it
+7. Reducing the size of the model
+8. Important consideration about dates in Power BI"		
+16	Power Query: Powerful data manipulation tool	Data Types and Data Structures	"1. Introduction to Power Query ;Query Editor; Get Data from Web
+2. Basic Transformations
+3. Get Data from Excel
+4. Use First Row As Headers / Use Headers as First Row
+5. Get Data from SQL Server
+6. Base data structures in Power Query
+7. Get Data from JSON ;Transforming Table, Record, and List
+8. Data Types in Power Query
+9. Query Operations
+10. Enable Load; Performance Boost
+11. Query Operations; Duplicate, and Reference"		
+17	Power Query: Powerful data manipulation tool	Combine Queries	"1. Dimensional Modelling; Designing the data model
+2. Append, creating a single big query of the same structure
+3. Merge; Joining queries when the structure is different
+4. Joins in Merge
+5. Tips for Merge or Append"		
+18	Power Query: Powerful data manipulation tool	Power Query Editor	"1. Groups; Folders in Query Editor
+2. Steps Operations
+3. Splitting query steps
+4. Moving steps up or down
+5. Add as new query / Drill Down ,Undo!"		
+19	Power Query: Powerful data manipulation tool	Rows and Column Operations	"1. Row Operations; Removing rows ;Row Operations; Keeping rows; Remove/Keep Errors; Remove/Keep Duplicates
+2. Using Remove/Keep combination for troubleshooting report
+3. Filtering based on Individual values
+4. The dilemma of the basic filtering
+5. Advanced Filtering & Sorting
+6. Column Operations ; Choosing Columns ; Removing Columns
+7. Data Type Change
+8. Locale consideration for the data type
+9. Replace Values; Fill Down/Up"		
+20	Power Query: Powerful data manipulation tool	Table Transformations	"1. Group By; Changing the granularity of the data table
+2. Group by Advanced
+3. Scripting and Group by; First and Last item in each group
+4. Transpose; rows to columns and reverse
+5. Pivot; changing the name-value structure to columns
+6. Unpivot; changing the budget column structure to rows"		
+21	Power Query: Powerful data manipulation tool	Text & Numeric Transformations	"1. Split Column by Delimiter
+2. Split Column by number of Characters
+3. Split into rows instead of columns
+4. Merge (Concatenate)
+5. Format
+6. The difference between Clean and Trim
+7. Parse (XML or JSON)
+8. Extract part of the text
+9. Standard transformations; Divide, Integer-divide, Multiply, Add etc.
+10 . Scientific transformations; logarithm, power square, etc.
+11. Statistics transformations;
+12. Rounding
+13. Information functions; Is Even, Is Odd, and Sign.
+14. Dealing with faults in Numeric calculations
+"		
+22	Power Query: Powerful data manipulation tool	Date and Time Transformations	"1. Date Transformations (Year, Month, Quarter, Week, etc.)
+2. Extending Fiscal Date Column
+3. Time Transformations (Hour, Minute, Second, etc.)
+4. Adding Time/Date banding
+5. Duration Transformation and Data Type
+6. Local Date or Time
+7. Time zone consideration for Power BI"		
+23	Power Query: Powerful data manipulation tool	Structured Column Transformations	"1. What is a Structured Column?
+2. Expand and Aggregate: Performance Consideration
+3. Add Column vs. Transform?
+4. Add Column with a Transformation
+5. Index Column: Row Number
+6. Conditional Column
+7. Add Column by Example; When you don’t know which transformation to use
+8. Add Custom Column: Generic"		
+24	Power Query: Powerful data manipulation tool	Functions and Parameters	"1. Defining Parameters
+2. Using Parameters in an existing query
+3. Advanced GUI for parameters
+4. Creating Function from a query
+5. Invoking the sample function
+6. Add Column Transform: Invoke Custom Function"		
+25	Power Query: Powerful data manipulation tool	Power Query Language: M	"1. What is M? and the importance of learning M
+2. M Syntax
+3. End of the line
+4. Variable Names
+5. Special Characters
+6. Escape Character
+7. Step by Step Coding
+8. Literals
+9. Function Call
+10. Comments"		
+26	Power Query: Powerful data manipulation tool	Advanced M Scripting	"1. Primitive Value
+2. List
+3. Record
+4. Table
+5. Function
+6. Navigating through List and List functions
+7. Navigating through Record and Record functions
+8. Navigating through Table and table functions
+9. Concatenating lists and records
+10. #Shared Keyword; function library of Power Query
+11. Parameters in the code
+12. Custom Functions through scripting
+13. Generators in Power Query: Implementing Loop Structure
+14. EACH: singleton function
+15. Sample Custom Function: Day Number of Year Custom Function"		
+27	Power Query: Powerful data manipulation tool	Error Handling & Performance Tips and Tricks 	"1. Enable Load; Simple, but Efficient
+2. Reducing Number of Columns
+3. Query Folding
+4. Grouping and Aggregation; Performance Consideration
+5. Merge; Before and After, things to Consider
+6. Keep/Remove Errors; Troubleshooting report
+7. Count Rows
+8. Reference/Duplicate
+9. Replace Errors
+10. Data Type considerations"		
+28	Advanced Power BI : DAX	Introduction to DAX	"1. Syntax of DAX
+2. Naming in DAX
+3. Operators and Operands
+4. Logical Operations
+5. Data Types in Power BI Model
+6. Overview of Functions in DAX
+7. Variables
+8. DAX or M? When to use Which?"		
+29	Advanced Power BI : DAX	DAX Calculations	"1. Calculated Column; Row by Row
+2. Measure; Single Output
+3. Calculated Table; A derived table
+4. Calculated Column.
+5. Measures are Dynamic
+"		
+30	Advanced Power BI : DAX	DAX Functions	"1. Aggregation Functions
+2. Implicit Measures vs. Explicit Measures
+3. Sum of an Expression: SumX
+4. Iterator Functions
+5. Difference between SUM and SUMX"		
+31	Advanced Power BI : DAX	Filter, Evaluation Contexts and Conditional Sum	"1. ALL , Filter Functions to be used inside other functions
+2. ALL and SUMX; Percentage Calculation
+All Except
+Filter Function: Custom Filter
+Values/Distinct; getting a unique list of values
+3. Row Context
+4. Filter Context
+5. Exception for Row Context
+6. Exception for Filter Context
+7. Calculate Function
+8. Conditional Sum; Three ways of Implementing; pros and Cons
+9. Variables in DAX and using them for debugging"		
+32	Advanced Power BI : DAX	Relationship Functions	"1. Related: Many to one
+2. RelatedTable: Sub table that can be used as a filter
+3. CrossFilter: Changing Direction of relationship
+4. UseRelationship: using an inactive relationship
+5. TreatAS function"		
+33	Advanced Power BI : DAX	Time Intelligence & Dynamic DAX	"1. Choosing the Date Table: Built-in or Customized Date Table
+2.Mark as Date Table
+3.Year to Date, Quarter to Date
+4.Fiscal Year to Date
+5.Same Period Last Year
+6.Year over Year Comparison
+7.ParallelPeriod vs SamePeriodLastYear vs DateAdd
+8.Running Total
+9.Rolling 12 Month Sales
+10.Average 12 Month Sales
+11.Rolling 6 Months
+12.Flexible time banding
+13. Time zone consideration in Power BI
+14.Numeric Parameter Definition through GUI
+15. GenerateSeries DAX function
+16. SelectedValue DAX function
+17. Sample Scenario: Customer Retention with Dax and Power BI
+18.Other Types of Parameters? Parameter Table
+19. SWITCH
+20. Forecast (Linear, Logarthmic, etc.)"		
+34	Advanced Power BI : DAX	Parent-Child Functions & Best Practices	"1. Organizational Hierarchy or Chart of Accounts: unknown levels
+2. Path function
+3. PathLength: getting the number of levels
+4. PathItem: finding a specific level
+5. PathItemReverse
+6. PathContains: Security Pattern
+7. LookupValue: To get the other related fields
+8. Modelling Best Practices
+9. Understanding when to switch between Power Query and DAX
+10. Considerations for very large tables
+Power BI Helper
+"		
+35	Power BI  Data Architecture & Administration	Power BI Services	"Power BI Components
+Power BI Service Content; Dashboard, Report, and Dataset
+Dashboard Features in the service
+What is Gateway?
+Two types of Gateway; On-premises, Personal
+Configuration and Installation of Gateway
+Import Data and Schedule Refresh
+DirectQuery Connection
+Live Connection
+Composite Model"		
+36	Power BI  Data Architecture & Administration	Sharing	"Basic Dashboard or Report Sharing
+Workspaces in Power BI; Dev Environment
+Power BI Apps; User Environment
+Publish to Web
+Embed in SharePoint Online; Office 365 Integrated Sharing
+Power BI Embedded; Embedding content into another application
+Comparison of all Sharing methods
+App Scheduling
+Sharing PowerBI reports with users (excel, .ppt,. pdf, etc.) "		
+37	Power BI  Data Architecture & Administration	Security & Administration	"Row Level Security
+Dynamic Row Level Security
+Patterns for Dynamic Row Level Security
+Manager Level Access
+Organization Chart Access as Dynamic Row Level Security
+Profiles and Users; Dynamic Row Level Security
+Dynamic Row Level Security using SQL Server Analysis Service Live Connection
+Power BI Administrator Configuration
+Usage Metrics
+Customizing Usage Metrics"		
+38	Power BI  Data Architecture & Administration	Integration & Architecture	"PowerPoint Integration with Power BI
+Power BI and Excel; More than just an Integration
+Power BI Report Server: Power BI on-premises
+SQL Server Reporting Services Integration with Power BI
+Real-time Streaming with Power BI, and Azure Stream Analytics
+Power BI REST API
+Architecture for Enterprise Scale
+Architecture for Sharing
+Architecture for Self-Service"		
+39	Power BI  For AI Engineers	Programming in PowerBI	"Python functions with PowerBI
+R Scripting with PowerBI"		
+40	Power BI  For AI Engineers	PowerBI Azure Machine Learning	Power BI and Azure Machine Learning		
+41	Power BI  For AI Engineers	Functions & Visuals	"AI visuals in Power BI
+AI functions in Power Query"		
+42	Qlik to PowerBI Migration	Qlik to PowerBI Migration			
+43	End to End PowerBI Case Study	In Office Training	End to End Healthcare Case Study		
+
