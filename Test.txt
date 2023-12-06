@@ -1,1 +1,24 @@
-HI
+What is NLP?
+
+NLP - Natural Language Processing
+
+ what kind of data do we deal with?
+
+We deal with textual data.. we know that textual data will not be available into some particular format so if you try to read out some books, if you try to read without some paragraph, if you will try to pick up some line.. so for sure all those lines will not be same and even length of the lines, number of words in a line, count of words in that line won't be same. so these things are not going to be same at all in any cases. 
+
+we won't be getting any tabular data however we'll be dealing completely with unstructured data.
+
+Whenever you like to talk with NLP or you will try to see a nlp like a problem statement, so the first problem that you are going to face to be with a dataset.
+
+Data wise, NLP data can be gathered from a speech/text/images and anywhere.you will be able to see and gather nlp data.
+
+Pre-defined tasks in NLP:
+-------------------------
+just like other algorithms, each n every algorithm will won't be able to work on all kinds of data and same goes for NLP
+
+We have to do huge amount of data pre-processing when we deal with NLP such as 
+  - Lemmatization
+  - Stop word removal
+  - stemming
+  -  regex
+  - normalization and so on... depends on the NLP task
