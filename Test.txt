@@ -22,3 +22,25 @@ We have to do huge amount of data pre-processing when we deal with NLP such as
   - stemming
   -  regex
   - normalization and so on... depends on the NLP task
+
+Tasks:
+--------
+    -  Parts of Speech tagging (POS)
+	- Text Generation
+	- Speech to text
+
+NLP Approaches:
+--------------
+	- Traditional Approach
+	- State of the Art (SOTA) approach (as per the paper "attention is all you need" released after 2018)
+
+Now most of the problems are getting solved using SOTA approach rather than Traditional model. But traditional NLP libraries are relevant till certain extent but not 100%
+
+text generation: if you are typing something in your gmail, you have seen that if you will type some word then automatically it will try to complete a line by showing some generated words. It is generating those words based on the typing that you are trying to do. 
+
+Text generation will be possible with the help of multiple different different kind of a model.
+
+Speech to text: We can use existing models which gives us the better results so no need to create new models from scratch.
+
+This plays a major role when we talk about speech to text conversion (or) conversation AI because a user can give input in terms of a speech
+
